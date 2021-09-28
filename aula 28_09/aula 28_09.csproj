@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>aula_28_09</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="gerente.cs" />
+  </ItemGroup>
+
+</Project>
